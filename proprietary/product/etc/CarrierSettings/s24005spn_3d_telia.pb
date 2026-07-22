@@ -1,5 +1,5 @@
 
-s24005spn_3d_teliaô°¢§"¦ 
+s24005spn_3d_teliaè´¢§"¦ 
 allow_merging_rtt_calls_bool((
 $carrier_default_wfc_ims_enabled_bool($
  carrier_default_wfc_ims_mode_int,
